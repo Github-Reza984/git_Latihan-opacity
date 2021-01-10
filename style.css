@@ -1,0 +1,25 @@
+body {
+
+
+	background-image: url(bg.png);
+}
+
+div {
+
+	height: 200px;
+	width: 600px;
+	background-color: teal;
+	opacity: 0.8;
+	position: relative;
+}
+
+.satu {
+
+	height: 100px;
+	width: 100px;
+	background-color: orange;
+	position: absolute;
+	top: -30px;
+	right: -50px;
+	opacity: 0.5;
+}
